@@ -1,4 +1,3 @@
-```
 # Sentiment & Threat Assessment GUI
 
 ## Overview
@@ -123,6 +122,3 @@ This project is licensed under the MIT License.
 ---
 ## Author
 **GitHub:** [@danyalwg](https://github.com/danyalwg)
-
-```
-
